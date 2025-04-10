@@ -5,5 +5,6 @@ class Program
     static void Main()
     {
         DataMahasiswa103022300160.ReadJSON();
+        TeamMembers103022300160.ReadJSON();
     }
 }

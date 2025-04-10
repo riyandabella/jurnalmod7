@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Shinta",
+       "lastName": "Alya Aulya Ningrum",
+       "gender": "female",
+       "age": 20,
+       "nim": "103022300049"
+    },
+    {
+       "firstName": "Sheila",
+       "lastName": "Nabilla Chantika Yudho",
+       "gender": "female",
+       "age": 20,
+       "nim": "103022300099"
+    },
+    {
+       "firstName": "Alya",
+       "lastName": "Rahmadayani S.",
+       "gender": "female",
+       "age": 19,
+       "nim": "103022300160"
+    }
+  ]
+}

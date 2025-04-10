@@ -1,0 +1,15 @@
+{
+   "firstName": "Shinta",
+   "lastName": "Alya",
+   "gender": "female",
+   "age": 20,
+   "address": {
+       "streetAddress": "Buah Batu",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CCK2LAB3", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2IAB3", "name": "Kecerdasan Buatan" }
+   ]
+}

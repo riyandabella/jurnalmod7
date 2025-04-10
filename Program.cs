@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("commit pertama aul");
+﻿using jurnalmod7;
+using System;
+using System.IO;
+using System.Text.Json;
+
+class program
+{
+    static void Main(string[] args)
+    {
+        DataMahasiswa103022300049.ReadJSON();
+    }
+
+}
+
+
+
+
